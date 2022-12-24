@@ -1,10 +1,10 @@
 // Активировать документы (true - включены, false - отключены)
 var isRightsEnabled = false; // Права
-var isCovidCertificateEnabled = true; // COVID-сертификат
+var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
 var birthdate = "07.08.2003"; // Дата рождения
-var fullname = "Баскаков Микита" // ФИО
+var fullname = "Баскаков Микита Олегович" // ФИО
 var name = "Микита" // Имя
 
 // Паспорт
