@@ -4,8 +4,8 @@ var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
 var birthdate = "07.08.2003"; // Дата рождения
-var fullname = "Баскаков Микита Олегович" // ФИО
-var name = "Микита" // Имя
+var fullname = "Amaliia Mekhtiieva" // ФИО
+var name = "Amaliia" // Имя
 
 // Паспорт
 var passport_id = "0086532977" // Номер паспорта
