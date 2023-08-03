@@ -3,7 +3,7 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
-var birthdate = "30.08.2003"; // Дата рождения
+var birthdate = "04.08.2003"; // Дата рождения
 var fullname = "Yehor Bonadrenko" // ФИО
 var name = "Yehor" // Имя
 
