@@ -4,8 +4,8 @@ var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
 var birthdate = "30.08.2003"; // Дата рождения
-var fullname = "Illia Matsko" // ФИО
-var name = "Illia" // Имя
+var fullname = "Yehor Bonadrenko" // ФИО
+var name = "Yehor" // Имя
 
 // Паспорт
 var passport_id = "0086532977" // Номер паспорта
