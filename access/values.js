@@ -3,7 +3,7 @@ var isRightsEnabled = false; // Права
 var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
-var birthdate = "07.08.2003"; // Дата рождения
+var birthdate = "07.08.2004"; // Дата рождения
 var fullname = "Yehor Bondarenko" // ФИО
 var name = "Yehor" // Имя
 
